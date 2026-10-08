@@ -19,3 +19,15 @@
 - Enter `npm run dev` in the terminal
 - A link should output similar to http://localhost:5173/
 - Copy the link into the browser to see website
+
+#### Tech Stack
+
+## Frontend
+-React (for structure and logic)
+-Tailwind CSS (for styling
+
+### Backend
+-Django
+
+### Database
+-MongoDB
