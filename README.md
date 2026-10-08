@@ -20,14 +20,14 @@
 - A link should output similar to http://localhost:5173/
 - Copy the link into the browser to see website
 
-#### Tech Stack
+### Tech Stack
 
-## Frontend
+#### Frontend
 -React (for structure and logic)
 -Tailwind CSS (for styling
 
-### Backend
+#### Backend
 -Django
 
-### Database
+#### Database
 -MongoDB
